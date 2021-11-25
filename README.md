@@ -16,4 +16,4 @@
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mturquin/Philosophers)](https://github.com/GoryachevDaniil/philosophers)
 
 ### Randomunique_Items, work with lists in Python
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mturquin/Philosophers)](https://github.com/GoryachevDaniil/Randomunique_Items)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mturquin/Randomunique_Items)](https://github.com/GoryachevDaniil/Randomunique_Items)
