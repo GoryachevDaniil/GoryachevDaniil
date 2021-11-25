@@ -15,5 +15,5 @@
 ### Philosophers, multithreading and multiprocessing in C
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mturquin/Philosophers)](https://github.com/GoryachevDaniil/philosophers)
 
-### ASSEMBLER, introduction to low-level programming
+### libasm, introduction to low-level programming on ASSEMBLER
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mturquin/libasm)](https://github.com/GoryachevDaniil/libasm)
