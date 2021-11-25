@@ -15,5 +15,5 @@
 ### Philosophers, multithreading and multiprocessing in C
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mturquin/Philosophers)](https://github.com/GoryachevDaniil/philosophers)
 
-### CPP, C++ piscine
+### ASSEMBLER, introduction to low-level programming
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mturquin/libasm)](https://github.com/GoryachevDaniil/libasm)
