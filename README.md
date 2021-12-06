@@ -9,11 +9,11 @@
 
 ## My ecole 42 projects
 
-### miniRT, ray tracing for primitive shapes
+### 42_miniRT, ray tracing for primitive shapes
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mturquin/miniRT)](https://github.com/GoryachevDaniil/miniRT)
 
-### Philosophers, multithreading and multiprocessing in C
+### 42_Philosophers, multithreading and multiprocessing in C
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mturquin/Philosophers)](https://github.com/GoryachevDaniil/philosophers)
 
-### libasm, introduction to low-level programming on ASSEMBLER
+### 42_libasm, introduction to low-level programming on ASSEMBLER
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mturquin/libasm)](https://github.com/GoryachevDaniil/libasm)
