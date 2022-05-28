@@ -2,5 +2,5 @@
 ## Languages and tools
 
 <img src="https://simpleicons.org/icons/c.svg" width="50px" alt="C" align="left">
-<img src="https://simpleicons.org/icons/cplusplus.svg?color=blue" width="60px" alt="C++"></a>
+<img src="https://simpleicons.org/icons/cplusplus.svg?color=blue" width="55px" alt="C++"></a>
 <img src="https://www.python.org/static/community_logos/python-logo.png" width="200px" alt="python"></a>
