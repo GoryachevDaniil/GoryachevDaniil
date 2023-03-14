@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I organize events in my free time.
 
 ## Languages and tools:
-- 🖋 Python / C / C++
+- 🖋 Python / SQL
 - 📒 Jupiter notebook / Pycharm / PySpark
 - 📚 Pandas / Numpy / Sklearn 
 - 📊 Matplotlib / Seaborn
