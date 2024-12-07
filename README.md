@@ -8,8 +8,8 @@
 
 ## Languages and tools:
 - 🖋 Python / SQL
-- 📒 Jupiter notebook / Pycharm / PySpark
-- 📚 Pandas / Numpy / Sklearn 
+- 📒 Jupiter notebook / Pycharm
+- 📚 Pandas / Numpy
 - 📊 Matplotlib / Seaborn
 
 ### Contacts:
